@@ -180,7 +180,6 @@
       {
 		if(buf[i] == 0)
 		  buf[i]=with;
-	      //putchar(buffer[i]);
 	  }      
 	}
 
